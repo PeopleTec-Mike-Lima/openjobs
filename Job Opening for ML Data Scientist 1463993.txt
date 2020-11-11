@@ -1,0 +1,70 @@
+https://peopletec.applicantpro.com/jobs/1463993.html
+
+PeopleTec is seeking a senior Data Scientist (Machine Learning) to support our Huntsville, AL location.  This job announcement closes on Nov 20, 2020 and is open to remote work from select U.S. locations.  Must love technical writing (white papers, forums, articles).  U.S. citizen with a government clearance.  If this is perfect for you or a great American friend ... apply online... let me know how I can help you get this job!
+
+The candidate will support our military and federal customers with cutting edge technologies and products for analyzing network data and other event-driven problem sets involving imagery, audio and text.
+ 
+Duties Include:
+Mine and analyze data from network logs to drive improvement of operating methods, anomaly and event detection, and network defense strategies
+Evaluate the effectiveness of adversarial models used to attack existing machine learning algorithms
+Assess the effectiveness and accuracy of new data sources and industry-leading learning techniques
+Develop custom data models and algorithms to apply to data sets
+Use predictive modeling to increase and optimize operational outcomes
+Develop what-if models with A/B testing framework and test model quality
+Coordinate with different functional teams and stakeholders to implement models and monitor outcomes
+Develop processes and tools to monitor and analyze model performance and data accuracy
+ 
+Required Skills/Experience:
+Strong problem-solving skills with an emphasis on applied machine learning
+Adept at using large data sets to find opportunities for machine learning and using models to test the effectiveness of different courses of action
+Coding knowledge and experience with several languages: Python, C++, Java, JavaScript, etc. to include querying databases
+Passion for discovering solutions hidden in large data sets and working with stakeholders to improve decision making
+Strong experience using a variety of algorithmic methods, using a variety of data tools, building and implementing models and creating/running training data
+Experience using web services: Redshift, S3, Spark, etc.
+Experience using log file analyzers and visualization tools such as Splunk, Elasticsearch, Logstash, and Kibana (ELK), both on premises and in the cloud Experience using statistical computer languages (R, Python, SLQ, etc.) to manipulate data and draw insights from large data sets
+Knowledge and experience in advanced statistical and data mining techniques (GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, etc.)
+Experience with applications that serve inferences from trained models
+Experience creating and using advanced machine learning algorithms and techniques (simulation, scenario analysis, clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks
+Experience working with and creating data architectures, including open source tools such as Tensorflow, Torch/PyTorch, Keras, and MxNet
+Experience analyzing data from 3rd party providers such as  Microsoft Azure and Google APIs
+Experience with distributed data/computing tools to include: Map/Reduce, Hadoop, Hive, Spark, SQL Server, etc.
+Excellent written and verbal communication skills for coordinating across teams
+Drive to learn and master new technologies and techniques
+Proven ability to drive decisions with their modeling insights
+
+Travel: Up to 5% 
+
+Must be a U.S. Citizen
+
+An active DoD Secret clearance is required to perform this work. Candidates are required to have an active Secret clearance upon hire, and the ability to maintain this level of clearance during their employment.
+ 
+
+Education Requirements:
+
+A Bachelor's Degree, Masters, or Ph.D. in Statistics, Mathematics, Computer Science or another quantitative field with 5+ years of experience manipulating data sets and building statistical models 
+
+ 
+
+Desired Skills:
+Advanced technical degree
+Experience as a Data Scientist or a background in statistical research
+Any experience presenting solutions to customers verbally or communicating solutions effectively to high-level audiences 
+ 
+
+People First. Technology Always.
+
+PeopleTec, Inc. is an employee-owned small business founded in Huntsville, AL that provides exceptional customer support by employing and retaining a highly skilled workforce.
+
+Culture: The name "PeopleTec" was deliberately chosen to remind us of our core value system - our people. Our company's foundation was built on placing our employees and customers first. With an award-winning atmosphere, we have matured into a company that boasts the best and brightest across multiple technical fields.
+
+Career: At PeopleTec, we value your long-term goals. Whether it's through our continuing-education opportunities, our robust training programs, or our "People First" benefits package, PeopleTec truly believes that our best investments are our people.
+
+Come Experience It.
+
+ 
+
+EOE/Minorities/Females/Veterans/Disabled
+
+PeopleTec, Inc. is an Equal Employment Opportunity employer and provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in its job application procedures. If you have any difficulty using our online system and you need an accommodation due to a disability, you may use the following email address, HR@peopletec.com and/or phone number (256.319.3800) to contact us about your interest in employment with PeopleTec, Inc.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, genetic information, citizenship, ancestry, marital status, protected veteran status, disability status or any other status protected by federal, state, or local law. PeopleTec, Inc. participates in E-Verify.
